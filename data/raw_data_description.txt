@@ -1,0 +1,11 @@
+Dataset Source:
+The retail transaction dataset was downloaded from Kaggle.
+
+Dataset Description:
+The dataset contains historical retail transaction records including customer purchases, transaction dates, and monetary values.
+
+Purpose:
+This raw dataset was used as the base for customer behavior analysis and RFM (Recency, Frequency, Monetary) segmentation.
+
+Note:
+The original raw dataset is not uploaded due to licensing restrictions. Only the cleaned and processed dataset is included in this repository.
